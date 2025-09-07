@@ -159,7 +159,7 @@ Videos of working prototypes are as follows:
 
 Video of Game’s working:
 
-[Untitled video - Made with Clipchamp (3).mp4](ASSETS/Untitled_video_-_Made_with_Clipchamp_(3).mp4)
+[Untitled video - Made with Clipchamp (3).mp4](ASSETS/video.mp4)
 
 ![image.png](ASSETS/image.png)
 
