@@ -8,11 +8,11 @@ A Custom STM32-based Board that runs simple games on an LCD, with various periph
 ---
 ### OLD PCB
 ---
-[image.png](ASSETS/old_pcb.png)
+![image.png](ASSETS/old_pcb.png)
 
 ### NEW PCB
 ---
-[image.png](ASSETS/1_layout.png)             [image.png](ASSETS/3_layout_new.png)
+![image.png](ASSETS/1_layout.png)             ![image.png](ASSETS/2_layout_new.png)
 
 ## Table Of Contents
 
@@ -169,9 +169,9 @@ Videos of working prototypes are as follows:
 
 Video of Game’s working:
 
-[Untitled video - Made with Clipchamp (3).mp4](ASSETS/gif_video.gif)
+![Untitled video - Made with Clipchamp (3).mp4](ASSETS/gif_video.gif)
 
-[image.png](ASSETS/image.png)
+![image.png](ASSETS/image.png)
 
 ## Future Work
 
