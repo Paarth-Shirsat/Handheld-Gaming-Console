@@ -1,0 +1,5 @@
+../Drivers/GAME2/pingpong.c:19:13:resetBall	8	static
+../Drivers/GAME2/pingpong.c:26:6:PingPong_Init	8	static
+../Drivers/GAME2/pingpong.c:39:6:PingPong_Update	24	static
+../Drivers/GAME2/pingpong.c:95:6:PingPong_Draw	40	static
+../Drivers/GAME2/pingpong.c:111:6:PingPong_IsGameOver	4	static

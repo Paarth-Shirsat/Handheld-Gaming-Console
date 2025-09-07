@@ -1,0 +1,6 @@
+../Drivers/GAME/snake.c:20:6:genNewApple	16	static
+../Drivers/GAME/snake.c:36:6:SNAKE_Init	16	static
+../Drivers/GAME/snake.c:48:6:SNAKE_updateGame	32	static
+../Drivers/GAME/snake.c:97:6:SNAKE_drawGame	24	static
+../Drivers/GAME/snake.c:120:6:SNAKE_ChangeDirection	16	static
+../Drivers/GAME/snake.c:129:6:SNAKE_getOver	4	static

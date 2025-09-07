@@ -1,0 +1,15 @@
+../Core/Src/main.c:115:5:main	8	static
+../Core/Src/main.c:180:6:drawIntroScreen	56	static
+../Core/Src/main.c:188:6:drawMenuScreen	40	static
+../Core/Src/main.c:201:6:drawGameOverScreen	72	static
+../Core/Src/main.c:208:6:handleInput	24	static
+../Core/Src/main.c:250:6:isButtonHeld	16	static
+../Core/Src/main.c:253:6:runSnakeGame	24	static
+../Core/Src/main.c:293:6:runPingPongGame	16	static
+../Core/Src/main.c:317:10:getADC	40	static
+../Core/Src/main.c:336:6:SystemClock_Config	88	static
+../Core/Src/main.c:378:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:430:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:464:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:502:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:560:6:Error_Handler	4	static,ignoring_inline_asm

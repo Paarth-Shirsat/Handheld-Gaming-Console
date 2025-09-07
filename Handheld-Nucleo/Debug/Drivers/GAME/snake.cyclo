@@ -1,0 +1,6 @@
+../Drivers/GAME/snake.c:20:6:genNewApple	5
+../Drivers/GAME/snake.c:36:6:SNAKE_Init	2
+../Drivers/GAME/snake.c:48:6:SNAKE_updateGame	16
+../Drivers/GAME/snake.c:97:6:SNAKE_drawGame	14
+../Drivers/GAME/snake.c:120:6:SNAKE_ChangeDirection	9
+../Drivers/GAME/snake.c:129:6:SNAKE_getOver	1

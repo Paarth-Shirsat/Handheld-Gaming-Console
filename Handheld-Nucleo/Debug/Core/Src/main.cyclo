@@ -1,0 +1,15 @@
+../Core/Src/main.c:115:5:main	5
+../Core/Src/main.c:180:6:drawIntroScreen	1
+../Core/Src/main.c:188:6:drawMenuScreen	2
+../Core/Src/main.c:201:6:drawGameOverScreen	1
+../Core/Src/main.c:208:6:handleInput	10
+../Core/Src/main.c:250:6:isButtonHeld	1
+../Core/Src/main.c:253:6:runSnakeGame	14
+../Core/Src/main.c:293:6:runPingPongGame	7
+../Core/Src/main.c:317:10:getADC	1
+../Core/Src/main.c:336:6:SystemClock_Config	3
+../Core/Src/main.c:378:13:MX_ADC1_Init	3
+../Core/Src/main.c:430:13:MX_I2C1_Init	2
+../Core/Src/main.c:464:13:MX_SPI1_Init	2
+../Core/Src/main.c:502:13:MX_GPIO_Init	1
+../Core/Src/main.c:560:6:Error_Handler	1

@@ -1,0 +1,4 @@
+../Drivers/MPU6050/mpu6050.c:15:6:MPU6050_Init	2
+../Drivers/MPU6050/mpu6050.c:38:6:MPU6050_Read_Accel	1
+../Drivers/MPU6050/mpu6050.c:53:6:MPU6050_Read_Gyro	1
+../Drivers/MPU6050/mpu6050.c:68:6:MPU6050_Read_Temp	1

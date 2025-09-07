@@ -1,0 +1,14 @@
+../Drivers/TFT/ili9341.c:7:13:ILI9341_Select	1
+../Drivers/TFT/ili9341.c:11:6:ILI9341_Unselect	1
+../Drivers/TFT/ili9341.c:15:13:ILI9341_Reset	1
+../Drivers/TFT/ili9341.c:21:13:ILI9341_WriteCommand	1
+../Drivers/TFT/ili9341.c:26:13:ILI9341_WriteData	2
+../Drivers/TFT/ili9341.c:38:13:ILI9341_SetAddressWindow	1
+../Drivers/TFT/ili9341.c:57:6:ILI9341_Init	1
+../Drivers/TFT/ili9341.c:212:6:ILI9341_DrawPixel	3
+../Drivers/TFT/ili9341.c:225:13:ILI9341_WriteChar	4
+../Drivers/TFT/ili9341.c:244:6:ILI9341_WriteString	5
+../Drivers/TFT/ili9341.c:270:6:ILI9341_FillRectangle	7
+../Drivers/TFT/ili9341.c:290:6:ILI9341_FillScreen	1
+../Drivers/TFT/ili9341.c:294:6:ILI9341_DrawImage	5
+../Drivers/TFT/ili9341.c:305:6:ILI9341_InvertColors	2
