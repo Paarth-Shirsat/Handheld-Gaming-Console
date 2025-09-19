@@ -19,18 +19,18 @@ A Custom STM32-based Board that runs simple games on an LCD, with various periph
 ---
 
 - [About The Project](#about-the-project)
-    - [Tech Stack](https://www.notion.so/Handheld-Gaming-Console-262c2ce1d82a8056936ad801bb8c6b92?pvs=21)
-    - [File Structure](https://www.notion.so/Handheld-Gaming-Console-262c2ce1d82a8056936ad801bb8c6b92?pvs=21)
-- [Getting Started](https://www.notion.so/Handheld-Gaming-Console-262c2ce1d82a8056936ad801bb8c6b92?pvs=21)
-    - [Prerequisites](https://www.notion.so/Handheld-Gaming-Console-262c2ce1d82a8056936ad801bb8c6b92?pvs=21)
-        - [Hardware](https://www.notion.so/Handheld-Gaming-Console-262c2ce1d82a8056936ad801bb8c6b92?pvs=21)
-        - [Software](https://www.notion.so/Handheld-Gaming-Console-262c2ce1d82a8056936ad801bb8c6b92?pvs=21)
-    - [Installation](https://www.notion.so/Handheld-Gaming-Console-262c2ce1d82a8056936ad801bb8c6b92?pvs=21)
-- [Usage](https://www.notion.so/Handheld-Gaming-Console-262c2ce1d82a8056936ad801bb8c6b92?pvs=21)
-- [Results & Demo](https://www.notion.so/Handheld-Gaming-Console-262c2ce1d82a8056936ad801bb8c6b92?pvs=21)
-- [Future Work](https://www.notion.so/Handheld-Gaming-Console-262c2ce1d82a8056936ad801bb8c6b92?pvs=21)
-- [Contributors](https://www.notion.so/Handheld-Gaming-Console-262c2ce1d82a8056936ad801bb8c6b92?pvs=21)
-- [Acknowledgements & Resources](https://www.notion.so/Handheld-Gaming-Console-262c2ce1d82a8056936ad801bb8c6b92?pvs=21)
+    - [Tech Stack](#tech-stack)
+    - [File Structure](#file-structure)
+- [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+        - Hardware
+        - Software
+    - [Installation](#installation)
+- [Usage](#usage)
+- [Results And Demo](#results-and-demo)
+- [Future Work](#future-work)
+- [Contributors](#contributors)
+- [Acknowledgements And Resources](#acknowledgements-and-resources)
 
 ## About The Project
 
@@ -161,7 +161,7 @@ Steps to flash firmware
     3. Select file path of the ‘.bin’ file from the project folder (search in the ‘Debug’ folder). 
     4. After the pop-up for flashing of firmware successfully comes, you can safely remove the USB to type C cable.
 
-## Results & Demo
+## Results And Demo
 
 ---
 
@@ -187,7 +187,7 @@ Video of Game’s working:
 - [Mustafa T. R.](https://github.com/mt-tass)
 - [Paarth Shirsat](https://github.com/Paarth-Shirsat)
 
-## Acknowledgements & Resources
+## Acknowledgements And Resources
 
 ---
 
