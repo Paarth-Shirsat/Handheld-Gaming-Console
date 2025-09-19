@@ -18,7 +18,7 @@ A Custom STM32-based Board that runs simple games on an LCD, with various periph
 
 ---
 
-- [About The Project](https://www.notion.so/Handheld-Gaming-Console-262c2ce1d82a8056936ad801bb8c6b92?pvs=21)
+- [About The Project](#about-the-project)
     - [Tech Stack](https://www.notion.so/Handheld-Gaming-Console-262c2ce1d82a8056936ad801bb8c6b92?pvs=21)
     - [File Structure](https://www.notion.so/Handheld-Gaming-Console-262c2ce1d82a8056936ad801bb8c6b92?pvs=21)
 - [Getting Started](https://www.notion.so/Handheld-Gaming-Console-262c2ce1d82a8056936ad801bb8c6b92?pvs=21)
