@@ -14492,7 +14492,7 @@
 		)
 		(uuid "39d0669e-cd00-467b-b24a-c55bb4440ea7")
 	)
-	(label "3.3V"
+	(label "5V"
 		(at 228.6 251.46 180)
 		(effects
 			(font
@@ -15032,7 +15032,7 @@
 		)
 		(uuid "7bfcaa1c-1bc0-48dd-b3e5-49df50dd56ff")
 	)
-	(label "PC0"
+	(label "V"
 		(at 170.18 157.48 0)
 		(effects
 			(font
@@ -15142,7 +15142,7 @@
 		)
 		(uuid "88485f9e-bb98-48aa-995f-14cfeb730804")
 	)
-	(label "3.3V"
+	(label "5V"
 		(at 134.62 236.22 0)
 		(effects
 			(font
@@ -15162,7 +15162,7 @@
 		)
 		(uuid "8c797c0e-acb7-433a-9488-646ab86ea1b0")
 	)
-	(label "V"
+	(label "PD3"
 		(at 114.3 144.78 180)
 		(effects
 			(font
@@ -15182,7 +15182,7 @@
 		)
 		(uuid "8ebb67b6-678f-456b-be3c-ef902ed86722")
 	)
-	(label "H"
+	(label "PD4"
 		(at 114.3 147.32 180)
 		(effects
 			(font
@@ -15522,7 +15522,7 @@
 		)
 		(uuid "be48fe0c-4afd-465a-be57-443a8fadb3df")
 	)
-	(label "PC0"
+	(label "PD4"
 		(at 157.48 259.08 0)
 		(effects
 			(font
@@ -15582,7 +15582,7 @@
 		)
 		(uuid "c4906046-760a-4897-9b05-714b47f83431")
 	)
-	(label "PC1"
+	(label "PD3"
 		(at 157.48 261.62 0)
 		(effects
 			(font
@@ -15752,7 +15752,7 @@
 		)
 		(uuid "d1f73b39-aaaf-4276-babf-326559add824")
 	)
-	(label "PC1"
+	(label "H"
 		(at 170.18 160.02 0)
 		(effects
 			(font
@@ -15823,7 +15823,7 @@
 		(uuid "dd7bd171-0b2c-4c4b-a4e6-e2f79b6a91bb")
 	)
 	(label "5V"
-		(at 290.83 205.74 180)
+		(at 289.2225 205.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16022,7 +16022,7 @@
 		)
 		(uuid "f9a02f22-8288-4d73-a8f2-bb1b18654391")
 	)
-	(label "3.3V"
+	(label "5V"
 		(at 391.16 172.72 0)
 		(effects
 			(font
@@ -18124,7 +18124,7 @@
 				)
 			)
 		)
-		(property "Value" "10uH"
+		(property "Value" "15uH"
 			(at 377.19 170.4945 90)
 			(effects
 				(font
@@ -18396,7 +18396,7 @@
 				)
 			)
 		)
-		(property "Value" "124k"
+		(property "Value" "210k"
 			(at 356.3582 190.463 90)
 			(effects
 				(font
@@ -20531,8 +20531,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "200k"
-			(at 287.02 187.96 0)
+		(property "Value" "100k"
+			(at 285.8329 186.7401 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23258,8 +23258,8 @@
 				)
 			)
 		)
-		(property "Value" "68.1k"
-			(at 351.79 177.6038 90)
+		(property "Value" "100k"
+			(at 351.7973 180.3511 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23391,7 +23391,7 @@
 				)
 			)
 		)
-		(property "Value" "220pF"
+		(property "Value" "150pF"
 			(at 345.9344 177.1245 90)
 			(effects
 				(font
